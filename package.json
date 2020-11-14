@@ -6,15 +6,15 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ArugaZ",
+  "author": "Cen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ArugaZ/whatsapp-bot.git"
+    "url": "https://github.com/iincen/CenBot2.git"
   },
   "bugs": {
     "url": "https://github.com/ArugaZ/whatsapp-bot/issues"
   },
-  "homepage": "https://github.com/ArugaZ/whatsapp-bot",
+  "homepage": "https://github.com/iincen/CenBot2",
   "license": "ISC",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.14",
