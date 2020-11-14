@@ -294,7 +294,7 @@ module.exports = HandleMsg = async (aruga, message) => {
                     aruga.reply('Yahh proses gagal, kakak isinya sudah benar belum?..', id)
                 }
             } else {
-                aruga.reply(from, `Pemakaian ${prefix}quotemaker |isi quote|author|theme\n\ncontoh: ${prefix}quotemaker |aku sayang kamu|-aruga|random\n\nuntuk theme nya pakai random ya kak..`)
+                aruga.reply(from, `Pemakaian ${prefix}quotemaker |isi quote|author|theme\n\ncontoh: ${prefix}quotemaker |aku sayang kamu|-cen|random\n\nuntuk theme nya pakai random ya kak..`)
             }
             break
         case 'nulis':
